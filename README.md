@@ -32,6 +32,6 @@ Open the Jupyter Notebook 📓: Explore the step-by-step implementation and anal
 Run the Code Cells ⚙️: Execute the code cells sequentially to reproduce results.
 Explore Documentation 📖: Understand the model's performance and recommendations for further improvement.
 
-Contributors - [Your Name] 👨‍💻 (As you contribute to the project)
+Contributors - Mohammed Ahsan Ali 👨‍💻
 
 Feel free to contribute, provide feedback, or raise issues. This project is open to collaboration and improvement. 🌟
