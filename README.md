@@ -1,5 +1,3 @@
-# Rainfall-Prediction-Project 🌧️🤖
-
 # Meteorological Modeling: Harnessing ML for Rainfall Predictions 🌐📈
 
 Project Purpose - This project endeavors to construct a robust machine learning model for predicting rainfall in Sydney. The primary objective is to enhance the accuracy of weather forecasts through the application of classification models, with a focus on decision trees and ensemble methods.
